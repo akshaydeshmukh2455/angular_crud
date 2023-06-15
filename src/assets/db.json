@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "akshay",
+      "uname": "akshay@123",
+      "password": "ak@123"
+    },
+    {
+      "id": 2,
+      "name": "rushi",
+      "uname": "rushi@123",
+      "password": "rushi@123"
+    },
+    {
+      "id": 3,
+      "name": "piyu",
+      "uname": "piyu@123",
+      "password": "piyu@123"
+    },
+    {
+      "id": 4,
+      "name": "ram",
+      "uname": "ram@123",
+      "password": "ram@123"
+    },
+    {
+      "id": 5,
+      "name": "laxman",
+      "uname": "laxman@123",
+      "password": "laxman@123"
+    }
+  ]
+}
